@@ -1,0 +1,56 @@
+Array
+(
+    [coord] => Array
+        (
+            [lon] => -104.98
+            [lat] => 39.74
+        )
+
+    [weather] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 803
+                    [main] => Clouds
+                    [description] => broken clouds
+                    [icon] => 04n
+                )
+
+        )
+
+    [base] => cmc stations
+    [main] => Array
+        (
+            [temp] => 298.65
+            [pressure] => 1017
+            [humidity] => 9
+            [temp_min] => 294.82
+            [temp_max] => 303.15
+        )
+
+    [wind] => Array
+        (
+            [speed] => 4.1
+            [deg] => 70
+        )
+
+    [clouds] => Array
+        (
+            [all] => 75
+        )
+
+    [dt] => 1442883414
+    [sys] => Array
+        (
+            [type] => 1
+            [id] => 546
+            [message] => 0.0039
+            [country] => US
+            [sunrise] => 1442926044
+            [sunset] => 1442969834
+        )
+
+    [id] => 5419384
+    [name] => Denver
+    [cod] => 200
+)
